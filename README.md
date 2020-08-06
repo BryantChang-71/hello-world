@@ -1,4 +1,3 @@
 # hello-world
-test
+test only
 
-this is a first time to use Github
